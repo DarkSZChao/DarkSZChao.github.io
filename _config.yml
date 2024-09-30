@@ -1,0 +1,5 @@
+title: My Personal Blog
+description: Welcome to my blog powered by Jekyll and GitHub Pages.
+baseurl: ""
+url: "https://DarkSZChao.github.io"
+theme: jekyll-theme-cayman
